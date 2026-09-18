@@ -1,4 +1,4 @@
-# Online Course fix by https://github.com/ShotFire7
+# Online Course fix by https://github.com/sul-tan1
 # This program is for Canvas! And it works on things other than math!
 
 
